@@ -1,0 +1,14 @@
+{
+    "description": "Translation for whatever the hell Fyd0 just said",
+    "icon": "https://cdn.discordapp.com/avatars/456691275178049558/a9b4641d2469f9cb6da79846c8c9d503.png?size=256",
+    "filename": "cogs\\fydo\\FydoDictionary.txt",
+    "logfile": "cogs\\fydo\\FydoLog.txt",
+    "translateids": [
+        162718727622623232
+    ],
+    "defaultfydowords": {},
+    "debug": false,
+    "color": 11681454,
+    "version": "98",
+    "versiontitle": "Electric Boogaloo"
+}

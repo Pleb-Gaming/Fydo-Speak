@@ -1,0 +1,170 @@
+{
+    "gorl": [
+        "girl"
+    ],
+    "dun": [
+        "don't"
+    ],
+    "tits": [
+        "its",
+        "breasts"
+    ],
+    "vundafa": [
+        "wonderful"
+    ],
+    "vundafuh": [
+        "wonderful"
+    ],
+    "vundafah": [
+        "wonderful"
+    ],
+    "gu": [
+        "go"
+    ],
+    "meesa": [
+        "I'm gonna",
+        "I",
+        "me"
+    ],
+    "sum": [
+        "some"
+    ],
+    "ah": [
+        "I",
+        "ah"
+    ],
+    "nau": [
+        "now"
+    ],
+    "dat": [
+        "that"
+    ],
+    "gezze": [
+        "get it"
+    ],
+    "gud": [
+        "good"
+    ],
+    "awsum": [
+        "awesome"
+    ],
+    "peh": [
+        "meh",
+        "pft"
+    ],
+    "smoochie": [
+        "kiss"
+    ],
+    "twas": [
+        "It was"
+    ],
+    "fuq": [
+        "fuck"
+    ],
+    "u": [
+        "you"
+    ],
+    "ought": [
+        "should"
+    ],
+    "teh": [
+        "the"
+    ],
+    "kek": [
+        "haha"
+    ],
+    "wassat": [
+        "whats that"
+    ],
+    "tis": [
+        "It is"
+    ],
+    "kewl": [
+        "cool"
+    ],
+    "donk": [
+        "fuck"
+    ],
+    "donking": [
+        "fucking"
+    ],
+    "ye": [
+        "your",
+        "yeah"
+    ],
+    "cookeh": [
+        "cookie"
+    ],
+    "hawt": [
+        "hot"
+    ],
+    "gezza": [
+        "get a"
+    ],
+    "mangs": [
+        "man"
+    ],
+    "sux": [
+        "sucks"
+    ],
+    "suu": [
+        "so"
+    ],
+    "dey": [
+        "they"
+    ],
+    "tho": [
+        "though"
+    ],
+    "hurr": [
+        "hear"
+    ],
+    "slaip": [
+        "sleep"
+    ],
+    "da": [
+        "the"
+    ],
+    "beh": [
+        "be"
+    ],
+    "scuury": [
+        "scary"
+    ],
+    "dayuum": [
+        "damn"
+    ],
+    "tite": [
+        "right"
+    ],
+    "rite": [
+        "right"
+    ],
+    "essa": [
+        "its"
+    ],
+    "stuf": [
+        "stuff"
+    ],
+    "doh": [
+        "though"
+    ],
+    "wey": [
+        "we"
+    ],
+    "dar": [
+        "there"
+    ],
+    "halp": [
+        "help"
+    ],
+    "meh": [
+        "me"
+    ],
+    "tu": [
+        "to"
+    ],
+    "nu": [
+        "no"
+    ]
+}
